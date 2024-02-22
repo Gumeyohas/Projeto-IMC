@@ -182,6 +182,6 @@ form button:hover {
 
     visibility: hidden;
     opacity: 0;
-    tranform: translateY(-30px);
+    transform: translateY(-30px);
     transition: transform .5s;
 }
